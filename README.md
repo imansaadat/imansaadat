@@ -2,7 +2,7 @@
 
 ## I'm a Front End Web Developer 🏙
 
-### My skills includes 🖥 
+### Currently, I have the following skills: 🖥 
 * HTML5
 * CSS3
 * Sass
