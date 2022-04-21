@@ -1,6 +1,6 @@
 # Hi! I'm Eslam Saadat (Iman) 👋🏽
 
-## I'm a Front End Web Developer 🏙
+## I'm a front-end web developer who is passionate about learning new technologies. 🏙
 
 ### Currently, I have the following skills: 🖥 
 * HTML5
