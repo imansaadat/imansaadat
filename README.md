@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Eslam Saadat (Iman)
 
 </h1>
-<h3 align="center">A front-end web developer who is passionate about learning new technologies.</h3>
+<h3 align="center">I am a developer who specializes in front-end development. I have a strong enthusiasm for programming and continuously expanding my knowledge. Furthermore, I take pleasure in imparting my acquired knowledge with others.</h3>
 
 - 🔭 I am currently open to work 😉
 
