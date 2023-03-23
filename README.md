@@ -5,7 +5,7 @@
 
 - 🔭 I am currently open to work 😉
 
-- 👨‍💻 All of my projects are available at [https://github.com/eslamsaadat?tab=repositories](https://github.com/eslamsaadat?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/eslamsaadat?tab=repositories](https://github.com/eslamsaadat?tab=repositories)
 
 - 📫 How to reach me **e.saadat72@gmail.com**
 
