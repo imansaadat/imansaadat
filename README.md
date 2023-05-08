@@ -24,5 +24,4 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=imansaadat&show_icons=true&locale=en&theme=onedark" alt="imansaadat" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=imansaadat&&theme=onedark" alt="imansaadat" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=imansaadat&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
