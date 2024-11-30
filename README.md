@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imansaadat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imansaadat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iman-saadat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imansaadat" height="30" width="40" /></a>
 <a href="https://t.me/imansaadat72" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="imansaadat72" height="30" width="40" /></a>
 </p>
 
